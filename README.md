@@ -1,7 +1,7 @@
 # 🔬 CancerSEA-X & CancerSEA
 > **A Comprehensive Single-cell Resource for Tumor Microenvironment (TME) Cell States**
 
-[![Website](https://img.shields.io/badge/Website-Access_CancerSEA--X-007EC6?style=for-the-badge&logo=google-chrome&logoColor=white)](http://biocc.hrbmu.edu.cn/CancerSEA-X/)
+[![Website](https://img.shields.io/badge/Website-Access_CancerSEA--X-007EC6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biocc.hrbmu.edu.cn/CancerSEA-X/)
 [![Publication](https://img.shields.io/badge/Publication-GPB_(2026)-E51B24?style=for-the-badge&logo=elsevier&logoColor=white)](#-citation)
 [![Publication](https://img.shields.io/badge/Publication-NAR_(2019)-005A9C?style=for-the-badge&logo=oxford-university-press&logoColor=white)](#-citation)
 
@@ -9,7 +9,7 @@ Welcome to the architectural repository for **CancerSEA-X** and its predecessor,
 
 **CancerSEA (2019)** was the first landmark cancer single-cell functional state atlas. Building upon this foundation, **CancerSEA-X (2026)** is a massive, comprehensive upgrade dedicated to systematically characterizing distinct cell states across malignant, immune, and stromal cells within the pan-cancer tumor microenvironment (TME).
 
-🌐 **Official Database Access:** [http://biocc.hrbmu.edu.cn/CancerSEA-X/](http://biocc.hrbmu.edu.cn/CancerSEA-X/)
+🌐 **Official Database Access:** [https://biocc.hrbmu.edu.cn/CancerSEA-X/](https://biocc.hrbmu.edu.cn/CancerSEA-X/)
 
 ---
 
@@ -52,8 +52,8 @@ To comprehensively decode the TME, CancerSEA-X integrates massive-scale single-c
 *Note: This repository serves as a structural demonstration of the web application. Due to laboratory data privacy policies and the massive size of the raw single-cell count matrices, the backend database and core source code are maintained internally.*
 
 The CancerSEA-X platform is powered by a robust full-stack architecture designed to handle high-concurrency data retrieval for over 9.6 million cells:
-- **Frontend / Visualization:** D3.js, ECharts, HTML5/CSS3, Bootstrap
-- **Backend / Logic:** Java (JSP/Servlets), MySQL
+- **Frontend / Visualization:** webpack, D3.js, ECharts, HTML5/CSS3, Bootstrap
+- **Backend / Logic:** Java, MySQL
 
 ---
 
